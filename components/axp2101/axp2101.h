@@ -1,7 +1,6 @@
 #ifndef __AXP2101_H__
 #define __AXP2101_H__
 
-#include "binary_sensor.h"
 #include "i2c.h"
 #include "sensor.h"
 #include "component.h"
